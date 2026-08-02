@@ -22,8 +22,8 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config user.name "GitHub Bot"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "Balaganesh36"
+          git config user.email "balavijayan03@gmail.com"
 
       - name: Update File
         run: |
